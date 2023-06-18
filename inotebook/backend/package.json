@@ -1,0 +1,22 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "nn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "ejs": "^3.1.8",
+    "express": "^4.17.3",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Florida college students plan statewide walkout against Gov. DeSantis: 'This is our fight for freedom'",
+      "description": "Participants are calling on the DeSantis administration to restore diversity, equity, and inclusion initiatives in college campuses across Florida.",
+      "url": "https://www.usatoday.com/story/news/education/2023/02/22/florida-college-students-statewide-walkout-ron-desantis/11326536002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/09/PTAL/7f2e09aa-0768-4add-a264-f87684781075-FSU-02.jpg?auto=webp&crop=2999,1687,x0,y266&format=pjpg&width=1200",
+      "publishedAt": "2023-02-23T13:41:42+00:00",
+      "content": "TALLAHASSEE, Fla. — Florida college students are planning a statewide walkout Thursday in protest of recent education-related efforts by Gov. Ron DeSantis, including his policies targeting LGBTQ+ and… [+3022 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Beatrice Peterson",
+      "title": "5th grader threatens shooting at Newport News elementary school as investigation into 6-year-old wraps",
+      "description": "The student at Richneck Elementary texted in a group text with other students.",
+      "url": "https://abcnews.go.com/US/5th-grader-threatens-shooting-newport-news-elementary-school/story?id=97361567",
+      "urlToImage": "https://s.abcnews.com/images/Politics/richneck-gty-bb-230121_1677000731937_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-02-22T20:54:30Z",
+      "content": "Newport News Police are investigating after a fifth-grade student at Richneck Elementary School texted in a group text with other students that they would pop some bullets and tell someone to shoot u… [+2513 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Andrea Hak",
+      "title": "Why US-based unicorn HackerOne keeps their dev team in Groningen",
+      "description": "In 2012, two former students from Hanze University of Applied Sciences in the Northern Dutch city of Groningen, took a major gamble. They made a list of 100 companies they’d like ...",
+      "url": "http://thenextweb.com/news/why-us-based-unicorn-hackerone-keeps-their-dev-team-in-groningen",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FAdd-a-heading-5.jpg&signature=7c8a16e981dcb3d037663f772e7de518",
+      "publishedAt": "2023-02-22T10:23:53Z",
+      "content": "In 2012, two former students from Hanze University of Applied Sciences in the Northern Dutch city of Groningen, took a major gamble. They made a list of 100 companies theyd like to work for including… [+8478 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Claretta Bellamy",
+      "title": "Black students bear witness to their own history in the metaverse",
+      "description": "Third-grader Mya Alvarado would not be born for another five decades when Martin Luther King Jr.",
+      "url": "https://www.nbcnews.com/news/nbcblk/black-students-bear-witness-history-metaverse-rcna70856",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230210-black-history-metaverse-cs-12fb80.jpg",
+      "publishedAt": "2023-02-16T17:03:45Z",
+      "content": "I really wanted to put people in the shoes of where people through Black history have been in already, Gault said, and I wanted people to experience it up close and be able to interact with it in a n… [+4597 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": null,
+      "title": "Thurgood Marshall College Fund Empowers Students to 'Be the First'",
+      "description": "Scholarships can play a significant role when navigating the financial responsibilities required to fund an education.",
+      "url": "https://www.newsweek.com/sponsored/thurgood-marshall-college-fund-empowers-students-first",
+      "urlToImage": "https://d.newsweek.com/en/full/2195612/tmcf.jpg",
+      "publishedAt": "2023-02-14T21:26:06Z",
+      "content": "Scholarships can play a significant role when navigating the financial responsibilities required to fund an education. Nearly 60 percent of families depend on them to help cover the monetary burden a… [+7661 chars]"
+    },
+    {
+      "source": {
+        "id": "national-review",
+        "name": "National Review"
+      },
+      "author": "Rich Lowry",
+      "title": "Why We Need Western Civ",
+      "description": "Universities have been conducting an unprecedented experiment in historical amnesia on American students.",
+      "url": "https://www.nationalreview.com/2023/02/why-we-need-western-civ/",
+      "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2019/03/plato-bust-trinity-college.jpg?fit=2057%2C1200",
+      "publishedAt": "2023-02-03T17:43:43Z",
+      "content": null
+    }
+  ]
+}
